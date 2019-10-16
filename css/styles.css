@@ -1,0 +1,40 @@
+.especial {color: blue;
+
+
+}
+
+.line1 {
+color: blue;
+text-emphasis-color: yellow;
+
+}
+p.intro {
+  text-decoration-style: wavy;
+  font-style: normal;
+  font-family: fantasy;
+  color: #249075;
+
+}
+
+p.boring {
+  color: blue;
+  text-transform: full-width;
+  text-decoration: underline;
+  text-decoration-style: wavy;
+
+}
+
+h1 {
+  color: #534938;
+
+}
+
+
+body {
+  background-color: lightgrey;
+}
+
+.intro {
+align-self: center;
+
+}
