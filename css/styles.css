@@ -8,11 +8,14 @@ color: blue;
 text-emphasis-color: yellow;
 
 }
-p.intro {
+
+.intro {
   text-decoration-style: wavy;
   font-style: normal;
   font-family: fantasy;
-  color: #249075;
+  color: #789065;
+  font-weight: bolder;
+  font-size: 35px
 
 }
 
@@ -37,4 +40,19 @@ body {
 .intro {
 align-self: center;
 
+}
+
+.frame {
+  border: 6px solid yellow;
+  padding: 10px;
+  margin: 100px;
+  background-color: hotpink;
+
+}
+
+.marg {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 240px;
+  margin-right: 240px;
 }
